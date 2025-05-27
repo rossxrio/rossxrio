@@ -4,8 +4,8 @@
 - 💻 By now I can code on Java, Go & JS<br/>
 - 🧠 Next language to learn: C++<br/>
 - ⚙  Web dev Frameworks: React<br/>
-- 🌟 Latest project: todo.rossxrio.studio<br/>
-- 🧑🏾 About me: rossxrio.studio<br/>
+- 🌟 Latest project: [Taskflow app](https://todo.rossxrio.studio)<br/>
+- 🧑🏾 About me: [Web portfolio](https://rossxrio.studio)<br/>
 
 
 ## 🌐 Socials:

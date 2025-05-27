@@ -21,8 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rossxrio&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://4cb60ed8.quote-2zc.pages.dev/index.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rossxrio&icon=0&color=0)](https://visitcount.itsvg.in)
